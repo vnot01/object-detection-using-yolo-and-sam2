@@ -1,4 +1,4 @@
-## Object-detection-using-yolo-and-sam2
+## Object detection using yolo and sam2
 
 
 ## Overview
